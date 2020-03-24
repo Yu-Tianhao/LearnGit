@@ -3,4 +3,4 @@ Git is a free sorfware system distributed under GPL.
 Git has a mutable index called stage.
 Git check.
 Git tracks status.
-git status.
+git of status.
